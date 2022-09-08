@@ -43,6 +43,6 @@ The pack contains the following shells:
 * [PSShell](https://github.com/fdiskyou/PSShell)
 * [SharpPick](https://github.com/TheKevinWang/SharpPick)
 
-The archive is password protected in order to evade antivirus detection.
+The archive is password protected in order to evade antivirus detection. (password = InfosecMatter!)
 
 More information including the password can be found [here](https://www.infosecmatter.com/19-ways-to-bypass-software-restrictions-and-spawn-a-shell/#bonus).
